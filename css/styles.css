@@ -637,6 +637,14 @@ main .robotHolder .image img {
   width: 70%;
 }
 
+.teamMembers .teamMemberRow .teamMemberBlock .fotoPhilip {
+  width: 70%;
+}
+
+.teamMembers .teamMemberRow .teamMemberBlock .fotoMarit {
+  width: 70%;
+}
+
 .teamMembers .teamMemberRow .teamFoto {
   width: 1200px;
   height: auto;
