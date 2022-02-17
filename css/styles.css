@@ -328,6 +328,18 @@ main .holder .row3 .block3 .image img {
   height: 100%;
 }
 
+main .holder .row3 .block4 .image {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+main .holder .row3 .block4 .image img {
+  width: 90%;
+  height: 90%;
+}
+
 /* Slideshow */
 main .holder .row2 {
   width: 90%;
@@ -480,7 +492,7 @@ footer {
 .fa-instagram,
 .fa-github {
   color: white;
-  background: #272e38;
+  background: #5b697c;
   transition: color ease 1s;
 }
 
@@ -715,7 +727,7 @@ main .titelSection {
   display: flex;
   justify-content: end;
   bottom: 0px;
-  right: 10px;
+  right: 20px;
 }
 
 #arrow {
@@ -734,10 +746,10 @@ main .titelSection {
 }
 
 .fa-arrow-up {
-  color: #ed4a72;
+  color: #5b697c;
 }
 .fa-arrow-up:hover {
-  color: #f56650;
+  color: rgb(42, 48, 58);
 }
 
 /*Scrol behaviour*/
