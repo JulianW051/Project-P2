@@ -434,8 +434,9 @@ footer {
   font-size: 15px;
 }
 
-.footer .list1 {
-  padding: 30px;
+.footer .list1 img {
+  width: 100%;
+  height: 100%;
 }
 
 .footer .list2 ul li a,
